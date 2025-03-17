@@ -38,7 +38,7 @@
 ## ⚡ Fun fact:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eshan5&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=aj-spec&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=eshan5&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eshan5&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
